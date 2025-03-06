@@ -5,7 +5,7 @@ Welcome to my QA Bootcamp practice project held by XSIS Academy! This is mobile 
 At Katalon we can use the Appium framework to test mobile applications. In this project I carried out tests on e-commerce sites in Indonesia (Tokopedia apps). 
 
 ## How to clone this repo to Katalon
-1. Clone this repo https://github.com/slugscode/mobile-testing-katalon.git
+1. Clone this repo https://github.com/anisyaism/mobile-testing-katalon.git
 2. Open Katalon Studio
 3. In the main toolbar, click on the Git icon then select Clone Project.
 
